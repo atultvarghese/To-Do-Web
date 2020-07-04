@@ -1,6 +1,7 @@
-# To-Do-Web
-To do list with update and delete option.
 
+========================
+# To-Do-Web-with-django
+# To do list with update and delete option.
 
 ======
 Django
